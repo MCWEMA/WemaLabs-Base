@@ -4,13 +4,11 @@
   <h1> Hello World </h1>
 </h1>
 
-Kick off your journey with this hello-world page. This is a starter you might need to get up and running blazing fast with the many blazing fast smart solutions.
+Kick off your journey by going through this repository. This is a starting point for those looking to get up and running efficient and smart solutions.
 
+### Quick connect
 
-
-## Quick connect
-
-1.  **Create a wrapper to your idea.**
+1.  **Create a wrapper to your idea**
 
     
 
@@ -20,17 +18,17 @@ Kick off your journey with this hello-world page. This is a starter you might ne
 
     
 
-1.  **Open the source code and start editing!**
+1.  **Open your mind and start!**
 
     
 
-## 🧐 What's keeping us busy?
+### 🧐 What's keeping us busy?
 
 A quick look at the top-level files and directories you'll see in a Gatsby project.
 
  
 
-##  Learn more 
+###  Learn more 
 
 Looking for more?  Here are some places to explore:
 
