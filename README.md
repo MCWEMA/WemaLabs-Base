@@ -8,28 +8,20 @@ Kick off your journey by going through this repository. This is a starting point
 
 ### Quick connect
 
-1.  **Create a wrapper to your idea**
+1.  **Wrap your idea**
 
-    
-
+  
 1.  **Start developing.**
 
     Navigate where ever you wqnt and start it up.
 
-    
-
-1.  **Open your mind and start!**
+1.  **Open your mind!**
 
     
-
-### 🧐 What's keeping us busy?
+### What keeps us busy?
 
 A quick look at the top-level files and directories you'll see in a Gatsby project.
 
  
-
-###  Learn more 
-
-Looking for more?  Here are some places to explore:
 
 <!-- AUTO-GENERATED-CONTENT:END -->
