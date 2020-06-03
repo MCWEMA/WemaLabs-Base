@@ -4,11 +4,11 @@
   <h1> Hello World </h1>
 </h1>
 
-Kick off your project with this hello-world boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+Kick off your journey with this hello-world page. This is a starter you might need to get up and running blazing fast with the many blazing fast smart solutions.
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
-## 🚀 Quick connect
+
+## Quick connect
 
 1.  **Create a wrapper to your idea.**
 
@@ -24,14 +24,14 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     
 
-## 🧐 What's inside?
+## 🧐 What's keeping us busy?
 
 A quick look at the top-level files and directories you'll see in a Gatsby project.
 
  
 
-## 🎓 Learning more 
+##  Learn more 
 
-Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/). Here are some places to start:
+Looking for more?  Here are some places to explore:
 
 <!-- AUTO-GENERATED-CONTENT:END -->
