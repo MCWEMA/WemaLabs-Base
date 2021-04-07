@@ -13,7 +13,7 @@ Kick off your journey by going through this repository. This is a starting point
   
 1.  **Start developing.**
 
-    Navigate where ever you wqnt and start it up.
+    Navigate where ever you want and start it up.
 
 1.  **Open your mind!**
 
